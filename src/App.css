@@ -2,13 +2,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  width: 100%;
+  background-image: url("https://drive.google.com/uc?id=15qwaPg4Co6Ej0sKibe6Yjr0WMenqMNOL");
+  height:100vh;
+  width:100%;
 }
 
 .calc-wrapper {
-  width: 400px;
-  height: 600px;
+  width: 300px;
+  height: 550px;
+ 
+
 }
 
 .row {
