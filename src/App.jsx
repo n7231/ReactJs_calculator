@@ -65,7 +65,7 @@ class App extends Component {
                     </div>
                     <div className="calulatorRow">
                       <DeleteButton
-                        handleClear={() => this.setState({ input: "" })}
+                        handleClear={() => this.setState({ input: "" , result:""})}
                       >
                         Clear
             </DeleteButton>
