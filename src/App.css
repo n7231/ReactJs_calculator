@@ -7,15 +7,20 @@
 }
 
 .mainContainer {
-  background-image: url("https://drive.google.com/uc?id=1BRj-CT261eKHJqehUe_mPX9799Au27Mc");
-  background-size:cover;
+  background-image: url("./background.jpg");
+  background-size: 100% 100%;
 }
-
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;  
+}
 .calc-wrapper {
   width: 300px;
-  height: 550px;
- 
-
+  height: 500px; 
 }
 
 .calulatorRow {
