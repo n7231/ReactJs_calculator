@@ -2,8 +2,8 @@
 ## How to run this project
 
 - Clone the project from github link.
-- npm install
-- npm start
+- npm install.
+- npm start.
 - Then the project will run on http://localhost:3000
 
 

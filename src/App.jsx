@@ -21,7 +21,7 @@ class App extends Component {
 
   handleEqual = () => {
     // to calculate inputted numbers
-    this.setState({ result: eval(this.state.input) });
+    this.setState({ result: eval(this.state.input).toString() });
   };
 
   render() {
